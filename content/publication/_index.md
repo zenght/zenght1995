@@ -10,6 +10,6 @@ view: 4
 IEEE TRANS ON IMAGE PROCESSING 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "DMEL"
   image: ""
 ---
