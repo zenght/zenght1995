@@ -19,7 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Computer Vision
 - Multimedia
-- 
+- Image Processing
 education:
   courses:
   - course: PhD in Computer Science
@@ -56,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zenght2017@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
