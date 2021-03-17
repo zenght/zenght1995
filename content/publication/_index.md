@@ -7,7 +7,7 @@ title: Publications
 #   3 = Card
 #   4 = Citation
 view: 4
-
+IEEE TRANS ON IMAGE PROCESSING 
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
